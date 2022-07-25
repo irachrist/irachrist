@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @irachrist
-- 👀 I’m interested in ICT AND COMPUTER LEARNING, GRAPHIC DESIGN AND PROGRAMMING
-- 🌱 I’m currently learning SOFTWARE DEVELOPMENT
-- 💞️ I’m looking to collaborate on WEB DESIGN PROJECT
-- 📫 How to reach me spcsgaba@gmail.com
+- 👋 Hi, I’m irachrist
+- 👀 Interested in ICT AND COMPUTER RELATED STUDIES, GRAPHIC DESIGN AND PROGRAMMING ARE MY HUB.
+- 🌱 learning SOFTWARE DEVELOPMENT.
+- 💞️ I’m looking to collaborate on WEB DESIGN PROJECT, SOFTWARE OR APPLICATION PROJECT OR ANY TYPE OF PROJECT.
+- 📫 Reach me spcsgaba@gmail.com, +250787421193, irachrist1 on any other social media.
 
 <!---
 irachrist/irachrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
